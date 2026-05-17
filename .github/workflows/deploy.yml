@@ -16,4 +16,4 @@ jobs:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
           nekoweb-domain: 'ashi.nekoweb.org'
           nekoweb-username: 'ashi'
-          directory: '/ashi.nekoweb.org'
+          directory: 'ashi.nekoweb.org'
